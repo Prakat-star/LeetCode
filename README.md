@@ -1,2 +1,2 @@
 # LeetCode
-This repository is managed by LeetPush extension: https://github.com/husamahmud/LeetPush
+This repository is the collection of leedcode problems solved by me
